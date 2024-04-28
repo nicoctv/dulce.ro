@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+ // vars
+$mainFont: "Nunito Sans", sans-serif;
+// weights 
+$light: 300;
+$regular: 400;
+$bold: 600;
+// Colors
+$mainColor: rgb(238, 174, 185);
+$secondaryColor: rgb(7, 7, 7);
+$linkColor:rgb(238, 229, 229);
+// sizies
+$sm:0.8em;
+$md:1em;
+$lg:1.6em;
+$xl:2em;
+$xxl:4em;
+// General Setting
+h1,
+h2,
+h3{
+    font-family: $mainFont;
+    color: $secondaryColor;
+    font-weight: $regular;
+}
+
+p{
+    font-family: $mainFont;
+    color: $secondaryColor;
+    line-height: $lg;
+}
+

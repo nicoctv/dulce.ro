@@ -1,0 +1,17 @@
+nav{
+    img{
+        width: 10%;
+        height: auto;
+    }
+    .nav-item{
+        .nav-link{
+            color:$linkColor;
+            font-size: $md;
+            font-weight: $bold;
+            &:hover{
+                text-decoration: underline;
+                color:rgb(226, 122, 226);
+            }
+        }
+    }
+}
