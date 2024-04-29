@@ -12,4 +12,9 @@ body{
         font-family: $mainFont;
         text-decoration: underline;
     }
+    .card{
+        margin: 12px;
+        border-color: $linkColor;
+    }
 }
+
