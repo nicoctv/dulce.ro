@@ -16,6 +16,10 @@ p {
 body {
   background-color: rgb(238, 174, 185);
 }
+body header img {
+  width: 100%;
+  height: auto;
+}
 
 nav img {
   width: 10%;
@@ -23,7 +27,7 @@ nav img {
 }
 nav .nav-item .nav-link {
   color: rgb(238, 229, 229);
-  font-size: 1em;
+  font-size: 1.6em;
   font-weight: 600;
 }
 nav .nav-item .nav-link:hover {

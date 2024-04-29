@@ -1,3 +1,9 @@
 body{
-    background-color: $mainColor;
+    background-color: $mainColor; 
+    header{
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
 }
