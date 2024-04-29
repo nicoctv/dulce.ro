@@ -20,6 +20,12 @@ body header img {
   width: 100%;
   height: auto;
 }
+body h1 {
+  font-size: 2em;
+  font-weight: 600;
+  font-family: "Nunito Sans", sans-serif;
+  text-decoration: underline;
+}
 
 nav img {
   width: 10%;

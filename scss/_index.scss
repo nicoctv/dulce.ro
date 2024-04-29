@@ -6,4 +6,10 @@ body{
             height: auto;
         }
     }
+    h1{
+        font-size: $xl;
+        font-weight: $bold;
+        font-family: $mainFont;
+        text-decoration: underline;
+    }
 }
