@@ -1,0 +1,18 @@
+body{
+    background-color: $mainColor;
+}
+h5{
+    font-family: $mainFont;
+    font-weight: $bold;
+    font-size: $lg;
+    text-decoration: underline;
+}
+p{
+    font-family: $mainFont;
+    color: $secondaryColor;
+    line-height: $lg;
+}
+.card-group{
+    gap: 1rem;
+    margin: 0.450rem;
+}

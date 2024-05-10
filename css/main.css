@@ -20,19 +20,23 @@ p {
 body {
   background-color: rgb(238, 174, 185);
 }
-body header img {
-  width: 100%;
-  height: auto;
-}
-body h1 {
-  font-size: 2em;
-  font-weight: 600;
+
+h5 {
   font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 1.6em;
   text-decoration: underline;
 }
-body .card {
-  margin: 12px;
-  border-color: rgb(238, 229, 229);
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  color: rgb(7, 7, 7);
+  line-height: 1.6em;
+}
+
+.card-group {
+  gap: 1rem;
+  margin: 0.45rem;
 }
 
 nav img {
