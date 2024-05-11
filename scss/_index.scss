@@ -1,0 +1,31 @@
+body{
+    background-color: $mainColor;
+}
+h5{
+    font-family: $mainFont;
+    font-weight: $bold;
+    font-size: $lg;
+    text-decoration: underline;
+}
+p{
+    font-family: $mainFont;
+    color: $secondaryColor;
+    line-height: $lg;
+}
+.card-group{
+    gap: 1rem;
+    margin: 0.450rem;
+}
+footer{
+    svg{
+        color: black;
+        width: 2rem;
+        height: 1.567rem;
+    }
+    h4{
+        text-decoration: underline;
+        font-family: $mainFont;
+        font-size: $lg;
+        font-weight: bolder;
+    }
+}

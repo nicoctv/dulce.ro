@@ -17,6 +17,40 @@ p {
   line-height: 1.6em;
 }
 
+body {
+  background-color: rgb(238, 174, 185);
+}
+
+h5 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 1.6em;
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  color: rgb(7, 7, 7);
+  line-height: 1.6em;
+}
+
+.card-group {
+  gap: 1rem;
+  margin: 0.45rem;
+}
+
+footer svg {
+  color: black;
+  width: 2rem;
+  height: 1.567rem;
+}
+footer h4 {
+  text-decoration: underline;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.6em;
+  font-weight: bolder;
+}
+
 nav img {
   width: 10%;
   height: auto;
