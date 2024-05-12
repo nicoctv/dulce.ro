@@ -65,4 +65,14 @@ nav .nav-item .nav-link:hover {
   color: rgb(226, 122, 226);
 }
 
+body {
+  background-color: rgb(238, 174, 185);
+}
+body h1 {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  margin-top: 2rem;
+}
+
 /*# sourceMappingURL=main.css.map */

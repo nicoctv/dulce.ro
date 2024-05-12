@@ -1,0 +1,9 @@
+body{
+    background-color: $mainColor;
+    h1{
+        display: flex;
+        justify-content: center;
+        text-decoration: underline;
+        margin-top: 2rem;
+    }
+}
