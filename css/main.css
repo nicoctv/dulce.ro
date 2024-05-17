@@ -45,10 +45,10 @@ footer svg {
   height: 1.493rem;
 }
 footer h4 {
-  text-decoration: underline;
-  font-family: "Nunito Sans", sans-serif;
+  margin: 12px;
   font-size: 1em;
   font-weight: bolder;
+  text-decoration: underline;
 }
 
 nav img {
@@ -73,6 +73,16 @@ body h1 {
   justify-content: center;
   text-decoration: underline;
   margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+body h2 {
+  text-decoration: underline;
+}
+body .elemt-text {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -5,5 +5,17 @@ body{
         justify-content: center;
         text-decoration: underline;
         margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    h2{
+        text-decoration: underline;
+        }
+    .elemt-text{
+        font-family: $mainFont;
+        font-size: $md;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+
+
     }
 }

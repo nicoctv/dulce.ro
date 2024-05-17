@@ -23,9 +23,9 @@ footer{
         height: 1.493rem;
     }
     h4{
-        text-decoration: underline;
-        font-family: $mainFont;
-        font-size: $md;
-        font-weight: bolder;
+    margin: 12px;    
+    font-size: $md;
+    font-weight: bolder;
+    text-decoration: underline;
     }
 }
